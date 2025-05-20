@@ -1,3 +1,6 @@
 viji
 this is text file
 Build, Deploy  and Test
+build it, generate binary
+deploy to tomcat
+run the test cases
